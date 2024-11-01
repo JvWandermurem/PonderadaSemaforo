@@ -8,7 +8,7 @@ Este repositório documenta a montagem e programação de um semáforo com LEDs 
 ### Foto da Montagem
 <div align="center">
 <sub><a name="f"></a>Figura 1- circuito</sub>
-<img src="/PonderadaSemaforo/assets/circuito.jpg" width="100%">
+<img src="..\PonderadaSemaforo\assets\circuito.jpg" width="100%">
 <sup>Fonte: Material produzido pelos autores (2024)</sup>
 </div>
 <p> 
