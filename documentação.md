@@ -6,7 +6,12 @@ Este repositório documenta a montagem e programação de um semáforo com LEDs 
 ## 1. Montagem Física
 
 ### Foto da Montagem
-![Montagem Física](../PonderadaSemaforo/assets/circuito.jpg) 
+<div align="center">
+<sub><a name="f"></a>Figura 1- circuito</sub>
+<img src="/PonderadaSemaforo/assets/circuito.jpg" width="100%">
+<sup>Fonte: Material produzido pelos autores (2024)</sup>
+</div>
+<p> 
 
 ### Relato da Montagem
 A montagem do semáforo foi feita conectando LEDs vermelho, amarelo e azul em uma protoboard. Cada LED foi conectado a um resistor para limitar a corrente e evitar danos ao LED e ao Arduino. Os LEDs foram então conectados aos pinos digitais do Arduino, com o LED vermelho no pino 6, o amarelo no pino 4, e o verde no pino 2.Além do mais foi conectado ao Arduino um servo que quando o semáforo acende a luz vermelha ele gira 90º. A programação controla os tempos de cada fase do semáforo para simular o funcionamento real.
